@@ -10,4 +10,4 @@
 
 ***[Patika.dev](https://app.patika.dev/)***
 
-**[Patika Web Adresi](www.patika.dev)**
+**[Patika Web Adresi](https://www.patika.dev/)**
